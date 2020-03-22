@@ -8,4 +8,5 @@ if [ "wc -l /etc/pacman.d/mirrorlist" -eq 92 ];then
     echo "Script Succeeded!"
     else
         echo "Script failed!"
+    fi
         
